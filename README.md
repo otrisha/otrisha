@@ -32,8 +32,7 @@ I enjoy working with data to uncover patterns, generate insights, and support sm
 
 ## 📂 What You’ll Find Here
 
-- 📊 Data Analysis Projects  
-- 🐍 Python Practice & Scripts  
+- 📊 Data Analysis Projects 
 - 📈 Excel & Dashboard Projects  
 - 🤖 AI & Machine Learning Concepts  
 
@@ -42,7 +41,6 @@ I enjoy working with data to uncover patterns, generate insights, and support sm
 ## 🚀 Current Focus
 
 - Building real-world data projects  
-- Improving my SQL & Python skills  
 - Exploring AI for data-driven solutions  
 
 ---
@@ -50,7 +48,7 @@ I enjoy working with data to uncover patterns, generate insights, and support sm
 ## 📫 Let’s Connect
 
 - 📧 Email: Orjitrisha@gmail.com  
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/patricia-orji
 
 ---
 
